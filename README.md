@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm [Your Name] (a.k.a CODEZILLA)
+# 👋 Hi there, I'm [stanly] (a.k.a CODEZILLA)
 
 🎓 I'm a student at KTU, passionate about Artificial Intelligence, Web Development, and Open Source.  
 🧠 Currently exploring: **Generative AI** and its potential across different industries.
@@ -29,7 +29,7 @@ This is not my original work, but a project I’m actively studying to understan
 ---
 
 ## 📫 Connect with Me
-- ✉️ Email: your.email@example.com  
-- 🔗 [GitHub](https://github.com/yourusername)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)  
-- 🌐 [Portfolio](https://yourname.dev)
+- ✉️ Email: stanlysunnny9t1@gmail.com  
+- 🔗 [GitHub](https://github.com/stanly-4t1)  
+- 💼 [LinkedIn](https://linkedin.com/in/stanlysunny)  
+
